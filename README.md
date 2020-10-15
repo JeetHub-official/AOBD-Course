@@ -4,7 +4,7 @@ The repository contains various big data algorithm we implemented as a part of o
 List:
 
 
-Contributers:
+## Contributers:
 Jeet H. Shah
 Mihir Kanjaria
 Muskan Matwani
