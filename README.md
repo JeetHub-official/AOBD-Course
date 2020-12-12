@@ -5,7 +5,8 @@ List:
 #### 1. Simple and Multiple Linear Regression using Gradient Descent with batch data
 #### 2. Simple and Multiple Linear Regression using Gradient Descent with stream data
 #### 3. Simple and Multiple Linear Regression using Normal Equation Method with batch data
-#### 4. Simple and Multiple Linear Regression using Normal Equation Method with stream data
+#### 4a. Incremental Mathematical Stream Regression
+#### 4b. Approimate Stream Regression 
 #### 5. Collaborative Filtering- Stochastic Gradient Descent for Matrix Factorization
 Collaborative filtering is a recommendation approach where rating of user u for item i is computed using ratings of item i given by other like minded users of u. This is an implementation of SGD for Matrix Factoriation used in Collaborative FIltering approach. This file creates a sparse random Ratings matrix whose rows are denoted by number of users and columns denote the number of items. 
 
