@@ -1,5 +1,5 @@
 # AOBD-Course
-The repository contains various Big Data algorithms which we implemented as a part of our 'Algorithms and Optimization for Big Data' Course at School of Engineering and Applied Science, Ahmedabad University.
+The repository contains various Big Data algorithms which we implemented as a part of our 'Algorithms and Optimization for Big Data' Course at School of Engineering and Applied Science(SEAS), Ahmedabad University.
 
 List:
 #### 1. Simple and Multiple Linear Regression using Gradient Descent with batch data
